@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thomas aka. Noitcereon or Noit for short.
-- 👀 I’m interested in Web and API development primarily, where I have a preference for C# (blazor)
+- 👀 I’m interested in Web and API development primarily, where I have a preference for C# (Blazor)
 - 🌱 I’m currently learning about Progressive Web Apps (PWA) and service workers.
 - 💞️ If anyone could use some help with a project, I'd be willing to give a hand
 - 📫 You can reach me on discord or on E-mail.
