@@ -4,7 +4,7 @@
 - 💞️ If anyone could use some help with a project, I'd be willing to give a hand
 - 📫 You can reach me on discord or on E-mail.
 
-E-mail: tba@live.dk
+E-mail: tba@live.dk <br>
 Discord: CA Noitcereon#9755
 
 <!---
