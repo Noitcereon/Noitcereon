@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and API development primarily, where I have a preference for C# (Blazor)
 - 🌱 I’m currently an intern at a small company called Malgré Tout.
 - 💞️ If anyone could use some help with a project, I'd be willing to give a hand
-- 📫 You can reach me on discord or on E-mail.
+- 📫 You can reach me via Discord or E-mail.
 
 E-mail: tba@live.dk <br>
 Discord: CA Noitcereon#9755
