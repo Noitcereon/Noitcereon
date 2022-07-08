@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Thomas aka. Noitcereon or Noit for short.
-- 👀 I’m interested in Web and REST API development primarily, where I have a preference for C#, Vue & Blazor
-- 💞️ If anyone could use some help with a project, I'd be willing to give a hand
+- 👀 I’m interested in Web and REST API development primarily.
 - 📫 You can reach me via Discord or E-mail.
 
 E-mail: tba@live.dk <br>
