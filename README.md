@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Thomas aka. Noitcereon or Noit for short.
 - 👀 I’m interested in Web and REST API development primarily.
-- 📫 You can reach me via Discord or E-mail.
+- 📫 You can reach me Email
 
-E-mail: tba@live.dk <br>
-Discord: CA Noitcereon#9755
+E-mail: tba@live.dk
 
 <!---
 Noitcereon/Noitcereon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
