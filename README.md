@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thomas aka. Noitcereon or Noit for short.
-- 👀 I’m interested in Web and REST API development primarily.
+- 👀 Web and REST API development is what I've primarily worked with.
 - 📫 You can reach me via Email
 
 E-mail: tba@live.dk
