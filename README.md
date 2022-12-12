@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Thomas aka. Noitcereon or Noit for short.
 - 👀 Web apps and REST API development are what I've primarily worked with.
-- 📫 You can reach me via E-mail: tba@live.dk
+- ✉️ My personal Email is: tba@live.dk
+- ✉️ My work Email is: thomas.andersen@dcx.com
 
 
 <!---
